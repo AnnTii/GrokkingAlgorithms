@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_BinarySearch/01_BinarySearch.iml" filepath="$PROJECT_DIR$/01_BinarySearch/01_BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_SelectionSort/02_SelectionSort.iml" filepath="$PROJECT_DIR$/02_SelectionSort/02_SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Recursion/03_Recursion.iml" filepath="$PROJECT_DIR$/03_Recursion/03_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Quicksort/04_Quicksort.iml" filepath="$PROJECT_DIR$/04_Quicksort/04_Quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_HashTables/05_HashTables.iml" filepath="$PROJECT_DIR$/05_HashTables/05_HashTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_BreadthFirstSearch/06_BreadthFirstSearch.iml" filepath="$PROJECT_DIR$/06_BreadthFirstSearch/06_BreadthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_DijkstrasAlgorithm/07_DijkstrasAlgorithm.iml" filepath="$PROJECT_DIR$/07_DijkstrasAlgorithm/07_DijkstrasAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_GreedyAlgorithms/08_GreedyAlgorithms.iml" filepath="$PROJECT_DIR$/08_GreedyAlgorithms/08_GreedyAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_DynamicProgramming/09_DynamicProgramming.iml" filepath="$PROJECT_DIR$/09_DynamicProgramming/09_DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GrokkingAlgorithms-master.iml" filepath="$PROJECT_DIR$/.idea/GrokkingAlgorithms-master.iml" />
+    </modules>
+  </component>
+</project>
